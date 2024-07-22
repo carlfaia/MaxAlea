@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**Max.alea** is a comprehensive collection of stochastic tools and algorithms for the Max environment. Originally inspired by Mikhail Malt's PatchWork library from the early 1990s, Max.alea has evolved into a dynamic, real-time toolkit for experimental and creative work with probabilistic processes.
+**MaxAlea** is a comprehensive collection of stochastic tools and algorithms for the Max environment. Originally inspired by Mikhail Malt's PatchWork library from the early 1990s, Max.alea has evolved into a dynamic, real-time toolkit for experimental and creative work with probabilistic processes.
 
 ## Key Features
 
