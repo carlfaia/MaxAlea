@@ -1,4 +1,4 @@
-# MaxAlea: Max.alea: A Stochastic Toolkit for Max
+# MaxAlea: A Stochastic Toolkit for Max
 
 
 ## Introduction
@@ -85,8 +85,8 @@ Carl Faia - cf@carlfaia.com or carl.faia@brunel.ac.uk
 
 ### Online Resources
 
-- GitHub Repository: [Your GitHub link]
-- Max Package Manager: [If applicable]
-- Documentation: [Link to online documentation, if available]
+- GitHub Repository: https://github.com/carlfiaia/MaxAlea
+- Max Package Manager: [-]
+- Documentation: [-]
 
-**Note:** This library is provided as-is, under [MIT License with Attribution]. Users are encouraged to explore, modify, and expand upon these tools for their creative and research endeavors.
+**Note:** This library is provided as-is, under a MIT License with Attribution. Users are encouraged to explore, modify, and expand upon these tools for their creative and research endeavors.
