@@ -1,0 +1,111 @@
+{
+    "name": "MaxAlea",   
+    "author": "Carl Faia",
+    "description": "A stochastic toolkit for Max",
+    "displayname": "MaxAlea",
+    "extends": "",
+    "extensible": 0,
+    "homepatcher": "MaxAlea_overview.maxpat",
+    "max_version_max": "none",
+    "max_version_min": "none",
+    "os": {
+        "macintosh": {
+            "platform": ["aarch64", "ia32", "x64"],
+            "min_version": "10.12"
+        },
+        "windows": {
+            "platform": [],
+            "min_version": "none"
+        }
+    },
+    "tags": [
+        "probability",
+        "random",
+        "stochastic"
+    ],
+    "version": "3.0.0",
+    "website": "https://github.com/carlfaia/MaxAlea",
+    "filelist": {
+        "externals": [
+            "alea.circ.mxo",
+            "alea.ran.mxo",
+            "alea.gauss.mxo",
+            "alea.gamma.mxo",
+            "alea.beta.mxo",
+            "alea.exp.mxo",
+            "alea.bernoulli.mxo",
+            "alea.border.mxo",
+            "alea.vonmises.mxo",
+            "alea.brownie.mxo",
+            "alea.tri.mxo",
+            "alea.bendover.mxo",
+            "alea.arcsin.mxo",
+            "alea.walker.mxo",
+            "alea.log.mxo",
+            "alea.weibull.mxo",
+            "alea.mchoice.mxo",
+            "alea.oneoverf.mxo",
+            "alea.choice.mxo",
+            "alea.markov.mxo",
+            "alea.rancd.mxo",
+            "alea.ana.mxo",
+            "alea.poisson.mxo",
+            "alea.laplace.mxo",
+            "alea.markov2.mxo",
+            "alea.pareto.mxo",
+            "alea.cauchypos.mxo",
+            "alea.lin.mxo",
+            "alea.interval.mxo",
+            "alea.hypercos.mxo",
+            "alea.cauchy.mxo",
+            "alea.mapper.mxo"
+        ],
+        "help": [
+            "alea.ran.maxhelp",
+            "alea.hypercos.maxhelp",
+            "alea.circ.maxhelp",
+            "alea.cauchypos.maxhelp",
+            "alea.poisson.maxhelp",
+            "alea.mapper.maxhelp",
+            "alea.walker.maxhelp",
+            "alea.ana2.maxhelp",
+            "alea.laplace.maxhelp",
+            "alea.pareto.maxhelp",
+            "alea.border.maxhelp",
+            "alea.ana.maxhelp",
+            "alea.markov.maxhelp",
+            "alea.bendover.maxhelp",
+            "alea.gamma.maxhelp",
+            "alea.choice.maxhelp",
+            "alea.markov2.maxhelp",
+            "alea.cauchy.maxhelp",
+            "alea.lin.maxhelp",
+            "alea.mchoice.maxhelp",
+            "alea.bernoulli.maxhelp",
+            "alea.exp.maxhelp",
+            "alea.interval.maxhelp",
+            "alea.brownie.maxhelp",
+            "alea.weibull.maxhelp",
+            "alea.gauss.maxhelp",
+            "alea.log.maxhelp",
+            "alea.oneoverf.maxhelp",
+            "alea.beta.maxhelp",
+            "alea.arcsin.maxhelp",
+            "alea.vonmises.maxhelp",
+            "alea.tri.maxhelp",
+            "alea.rancd.maxhelp"
+        ],
+        "jsextensions": [
+            "alea.ana2.js"
+        ],
+        "media" : [ "Invention-in-D-Minor-Nr-4.mid", "mapleleafrag.mid", "MaxHead.jpg", "stylized_brownian_motion_vg.jpg"],
+
+        "docs": [],
+        "javascript": [],
+        "extras": [
+            "MaxAlea_overview.maxpat"
+        ]
+    },
+    "c74install": 0,
+    "installdate": 0
+}

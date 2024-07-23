@@ -1,0 +1,33 @@
+MaxAlea - Version history
+
+
+*******************
+3.0.0: 23 July 2024
+
+- updated to C++
+- Added several new objects including alea.markov and alea.markov2
+- Added tools to create transition matrix for Markov chains
+
+
+*******************
+2.00: 20 August 2007
+
+- architecture porting
+- added Mersenne Twister as PRNG
+
+
+
+*******************
+1.5.0 14 October 2003
+
+- architecture porting
+- minor cleanup
+
+*******************
+1.0: Initial release (October 1996)
+
+
+
+*******************
+Contact:
+http://carlfaia.com
